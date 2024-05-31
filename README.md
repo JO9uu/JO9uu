@@ -1,4 +1,13 @@
 ## Hi there 👋
+### 안녕하세요~ [정원구](https://blog.naver.com/hv21c/221651615261)입니다~~~
+
+줄 </hr>
+ ----
+
+
+📝
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JO9uu&show_icons=true&theme=②default)
 
 <!--
 **JO9uu/JO9uu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
