@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=724199&height=높이&section=header&text=안녕하세요. 조금씩이지만 꾸준히 성장하고 싶은 개발자 정원구 입니다.&fontSize=14" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=724199&height=150&section=header&text=안녕하세요. 조금씩이지만 꾸준히 성장하고 싶은 개발자 정원구 입니다.&fontSize=14" />
 
 
 
