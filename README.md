@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&section=footer&text=Email:%20sardia0923@gmail.com&fontSize=20&fontColor=86879d&fontAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&section=footer&text=Email:%20sardia0923@gmail.com&fontSize=20&fontColor=564E7E&fontAlignY=60" />
 
