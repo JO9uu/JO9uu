@@ -37,10 +37,10 @@
 
 📝 사용된 기술들
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JO9uu&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JO9uu&layout=pie)  
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sardia)](https://solved.ac/sardia/)
 
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 <br/>  
 
 🎫 나의 깃허브 통계
