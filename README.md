@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&section=header&text=System.out.println(''Hello%20World!!'')&fontSize=40&fontColor=564E7E&fontAlignY=40" />
   
 # 안녕하세요. 조금씩 조금씩 자라나는 개발자 정원구입니다. [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjo9uu&count_bg=%23BDC83D&title_bg=%23564E7E&icon=jameson.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
--- 아직은 코딩에 있어 미숙하고 실수가 있을지 모르겠지만, 코드짜는데 조금씩 능숙해지며, 실수를 하나하나 줄여나가며 개발을 공부하고 싶습니다.<br/>
+-- 아직은 코딩에 있어 미숙하고 실수가 있을지 모르겠지만, 조금씩 능숙해지며, 실수를 하나씩 줄여나가며 개발을 공부하고 싶습니다.<br/>
 -- 틈틈히 공부하며 발전하려고 노력하고 있습니다.<br/>
 -- 문의사항이 있으시다면 하단 email로 연락주시면 빠르게 답변하도록 하겠습니다. 감사합니다.<br/>
 
