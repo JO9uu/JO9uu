@@ -15,17 +15,17 @@
       <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
 </p>
 
-</br>
+<br/>
 📝 사용된 기술들
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JO9uu&layout=pie)
-</br>
+<br/>
 
 🎫 나의 깃허브 통계
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JO9uu&show_icons=true&theme=②default)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-</br>
+<br/>
 <!--
 **JO9uu/JO9uu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
