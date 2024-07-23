@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&width=600&section=header&text=안녕하세요.%20성장하는%20개발자%20정원구%20입니다.&fontSize=40&fontColor=564E7E&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&width=600&section=header&text=System.out.println("Hello World!")<br/>안녕하세요.%20자라나는%20개발자%20정원구%20입니다.&fontSize=40&fontColor=564E7E&fontAlignY=40" />
 
 
 <br/>  
@@ -8,13 +8,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p>
-    <img src="https://img.shields.io/badge/JavaScript-F5FF38?style=flat&logo=JavaScript&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-40A9FF?style=flat&logo=CSS3&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-FF7B00?style=flat&logo=HTML5&logoColor=white">
-      <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white">
-    <img src="https://img.shields.io/badge/JAVA-36FF90?style=flat&logo=JAVA&logoColor=white">
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
-      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+
 </p>
 
 <br/>  
