@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&section=header&text=안녕하세요.%20성장하는%20개발자%20정원구%20입니다.&fontSize=40&fontColor=564E7E&fontAlignY=40" />
 
-</hr>
-</hr>
+
+</hr></hr>
 🕹️ 배웠던, 배우는 기술들
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
