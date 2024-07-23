@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&section=header&text=안녕하세요.%20성장하는%20개발자%20정원구%20입니다.&fontSize=40&fontColor=564E7E&fontAlignY=40" />
 
-
-
+</hr>
+</hr>
 🕹️ 배웠던, 배우는 기술들
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -14,11 +14,13 @@
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
       <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
 </p>
-
+</hr>
+</hr>
 📝 사용된 기술들
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JO9uu&layout=pie)
-
+</hr>
+</hr>
 🎫 나의 깃허브 통계
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JO9uu&show_icons=true&theme=②default)
