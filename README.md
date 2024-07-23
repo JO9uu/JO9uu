@@ -15,12 +15,12 @@
       <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
 </p>
 </hr>
-</hr>
+
 📝 사용된 기술들
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JO9uu&layout=pie)
 </hr>
-</hr>
+
 🎫 나의 깃허브 통계
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JO9uu&show_icons=true&theme=②default)
