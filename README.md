@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&section=header&text=안녕하세요.%20성장하는%20개발자%20정원구%20입니다.&fontSize=40&fontColor=86879d&fontAlignY=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&section=header&text=안녕하세요.%20성장하는%20개발자%20정원구%20입니다.&fontSize=40&fontColor=86879d&fontAlignY=40" />
 
 
 
