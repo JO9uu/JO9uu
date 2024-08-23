@@ -36,9 +36,9 @@
 - db  
 
   - ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  - ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-  - ![oracle](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=DBeaver&logoColor=white)
-  - ![amazonaws](https://img.shields.io/badge/HeidiSQL-239120?style=for-the-badge&logo=heidisql&logoColor=white)
+![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![oracle](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=DBeaver&logoColor=white)
+![amazonaws](https://img.shields.io/badge/HeidiSQL-239120?style=for-the-badge&logo=heidisql&logoColor=white)
 
 
 📝 사용된 기술들
