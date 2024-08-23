@@ -17,7 +17,7 @@
 🕹️ 배웠던, 배우는 기술들
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
---skills  
+-skills  
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,11 +29,11 @@
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
---cloud  
+-cloud  
 
 ![amazonaws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
---db  
+-db  
 
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
@@ -54,7 +54,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JO9uu&show_icons=true&theme=②default)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-<br/>  
+
+
+
 
 <!--
 **JO9uu/JO9uu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
