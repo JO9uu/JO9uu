@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&section=header&text=System.out.println(''Hello%20World!!'')&fontSize=40&fontColor=564E7E&fontAlignY=40" />
   
-# 안녕하세요. 조금씩 조금씩 자라나는 개발자 정원구입니다. [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjo9uu&count_bg=%23BDC83D&title_bg=%23564E7E&icon=jameson.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+# 안녕하세요. 조금씩 조금씩 자라나는 개발자 정원구입니다. 
 - 아직은 코딩에 있어 미숙하고 실수가 있을지 모르겠지만, 조금씩 능숙해지며, 실수를 하나씩 줄여나가며 개발을 공부하고 있습니다.
   
 * 제가 공부 하는 것들 정리하는 제 노션입니다. [노션](https://www.notion.so/ed6b9cc47a9d42ba8a7ae0e19579d308) 
